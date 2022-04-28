@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "nome skin",
+        "description": "skin da coleção x possivel dar upgrade com RP",
+        "photo": "/assets/pratos/macarrao_mediterraneo.png",
+        "price": 73.0,
+
+        "tier": {
+            "id": 1,
+            "label": "Selecionada"
+        },
+
+        "type": {
+            "id": 1,
+            "label": "ghost"
+        }
+    }
+]
