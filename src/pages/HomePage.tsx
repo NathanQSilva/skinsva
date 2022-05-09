@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>
+    <div className="bg-slate-400 font-bold">
       home
     </div>
   );
