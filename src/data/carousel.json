@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Novidade",
+        "description": "Nova coleção de skins Magepunk",
+        "photo": "/assets/imagens/promocao/NovidadeMagepunk.png"
+    },
+    {
+        "id": 2,
+        "title": "Em breve",
+        "description": "Em breve novas skins disponíveis",
+        "photo": "/assets/imagens/promocao/emBreveGun.png"
+    },
+    {
+        "id": 3,
+        "title": "Promoção",
+        "description": "Promoção nas skins Glitchpop de 30%",
+        "photo": "/assets/imagens/promocao/promocaoGlitchpop.png"
+    }
+]

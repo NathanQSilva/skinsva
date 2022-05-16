@@ -1,8 +1,15 @@
+import CarouselComponent from "Components/Carousel";
+
 export default function HomePage() {
   return (
     <>
-      <section>
-        carrosel
+      <section className="p-12">
+        <div className='flex flex-col items-center bg-image-vava'>
+          <h2 className="text-slate-100 font-valorant text-3xl border-b-2 border-vavaRed-100 mb-5">
+            Se liga nas novidades
+          </h2>
+          <CarouselComponent />
+        </div>
       </section>
       <section className="flex flex-col items-center content-center bg-slate-700 ">
         <div className=" flex flex-row items-center content-center my-8">

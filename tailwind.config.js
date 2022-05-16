@@ -4,6 +4,17 @@ module.exports = {
     extend: {
       fontFamily: {
         valorant: ["VALORANT"]
+      },
+      colors: {
+        vavaCinza: {
+          100: "#101B21"
+        },
+        vavaAzul: {
+          100: "#162130"
+        },
+        vavaRed: {
+          100: "#FF4763"
+        }
       }
     },
   },
