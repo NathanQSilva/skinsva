@@ -7,13 +7,30 @@
     src: url("/public/fonts/ValorantFont.ttf")
 }
 
-@layer components {
-    .bg-image-vava {
-        background: linear-gradient(0deg, rgba(22, 33, 48, 0.9) 0%, rgba(2, 2, 2, 0) 100%), url(https://www.xtrafondos.com/descargar.php?id=5406&resolucion=3840x2160);
-    }
+/* CUSTOM SCROLLBAR */
+body::-webkit-scrollbar {
+    width: 6px;
 }
 
+body::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #FF4763;
+}
+
+/* CUSTOM BACKGROUND */
 body {
     min-height: 100vh;
     background: linear-gradient(11.58deg, rgba(171, 58, 173, 0.42) 8.5%, rgba(22, 33, 48, 0) 67.72%), #162130;
 }
+
+/* Exemplo CUSTOM
+@layer components {
+    .bg-image-vava {
+        Estilo que quiser aqui  
+        background: linear-gradient(0deg, rgba(22, 33, 48, 0.9) 0%, rgba(2, 2, 2, 0) 100%), url(https://www.xtrafondos.com/descargar.php?id=5406&resolucion=3840x2160);    
+    }
+}
+*/
