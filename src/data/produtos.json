@@ -1,0 +1,503 @@
+[
+    {
+        "id": 1,
+        "title": "Ares aristocrat",
+        "description": "Ares aristocrat",
+        "photo": "/assets/imagens/colecao/aristocrat/Ares.png",
+        "price": 100.0,
+        "category": {
+            "id": 1,
+            "label": "Ares"
+        }
+    },{
+        "id": 2,
+        "title": "Bulldog aristocrat",
+        "description": "Bulldog aristocrat",
+        "photo": "/assets/imagens/colecao/aristocrat/Bulldog.png",
+        "price": 100.0,
+        "category": {
+            "id": 2,
+            "label": "Bulldog"
+        }
+    },{
+        "id": 3,
+        "title": "Sheriff aristocrat",
+        "description": "Sheriff aristocrat",
+        "photo": "/assets/imagens/colecao/aristocrat/Sheriff.png",
+        "price": 100.0,
+        "category": {
+            "id": 3,
+            "label": "Sheriff"
+        }
+    },{
+        "id": 4,
+        "title": "Stinger aristocrat",
+        "description": "Stinger aristocrat",
+        "photo": "/assets/imagens/colecao/aristocrat/Stinger.png",
+        "price": 100.0,
+        "category": {
+            "id": 4,
+            "label": "Stinger"
+        }
+    },{
+        "id": 5,
+        "title": "Vandal aristocrat",
+        "description": "Vandal aristocrat",
+        "photo": "/assets/imagens/colecao/aristocrat/Vandal.png",
+        "price": 100.0,
+        "category": {
+            "id": 5,
+            "label": "Vandal"
+        }
+    },{
+        "id": 6,
+        "title": "Classic avalanche",
+        "description": "Classic avalanche",
+        "photo": "/assets/imagens/colecao/avalanche/Classic.png",
+        "price": 100.0,
+        "category": {
+            "id": 6,
+            "label": "Classic"
+        }
+    },{
+        "id": 7,
+        "title": "Marshal avalanche",
+        "description": "Marshal avalanche",
+        "photo": "/assets/imagens/colecao/avalanche/Marshal.png",
+        "price": 100.0,
+        "category": {
+            "id": 7,
+            "label": "Marshal"
+        }
+    },{
+        "id": 8,
+        "title": "Phantom avalanche",
+        "description": "Phantom avalanche",
+        "photo": "/assets/imagens/colecao/avalanche/Phantom.png",
+        "price": 100.0,
+        "category": {
+            "id": 8,
+            "label": "Phantom"
+        }
+    },{
+        "id": 9,
+        "title": "Spectre avalanche",
+        "description": "Spectre avalanche",
+        "photo": "/assets/imagens/colecao/avalanche/Spectre.png",
+        "price": 100.0,
+        "category": {
+            "id": 9,
+            "label": "Spectre"
+        }
+    },{
+        "id": 10,
+        "title": "Vandal avalanche",
+        "description": "Vandal avalanche",
+        "photo": "/assets/imagens/colecao/avalanche/Vandal.png",
+        "price": 100.0,
+        "category": {
+            "id": 5,
+            "label": "Vandal"
+        }
+    },{
+        "id": 11,
+        "title": "Frenzy blastx",
+        "description": "Frenzy blastx",
+        "photo": "/assets/imagens/colecao/blastx/Frenzy.png",
+        "price": 100.0,
+        "category": {
+            "id": 10,
+            "label": "Frenzy"
+        }
+    },{
+        "id": 12,
+        "title": "Knife blastx",
+        "description": "Knife blastx",
+        "photo": "/assets/imagens/colecao/blastx/Knife.png",
+        "price": 100.0,
+        "category": {
+            "id": 11,
+            "label": "Knife"
+        }
+    },{
+        "id": 13,
+        "title": "Odin blastx",
+        "description": "Odin blastx",
+        "photo": "/assets/imagens/colecao/blastx/Odin.png",
+        "price": 100.0,
+        "category": {
+            "id": 12,
+            "label": "Odin"
+        }
+    },{
+        "id": 14,
+        "title": "Phanton blastx",
+        "description": "Phanton blastx",
+        "photo": "/assets/imagens/colecao/blastx/Phanton.png",
+        "price": 100.0,
+        "category": {
+            "id": 8,
+            "label": "Phanton"
+        }
+    },{
+        "id": 15,
+        "title": "Spectre blastx",
+        "description": "Spectre blastx",
+        "photo": "/assets/imagens/colecao/blastx/Spectre.png",
+        "price": 100.0,
+        "category": {
+            "id": 9,
+            "label": "Spectre"
+        }
+    },{
+        "id": 16,
+        "title": "Bulldog glitchpop",
+        "description": "Bulldog glitchpop",
+        "photo": "/assets/imagens/colecao/glitchpop/Bulldog.png",
+        "price": 100.0,
+        "category": {
+            "id": 2,
+            "label": "Bulldog"
+        }
+    },{
+        "id": 17,
+        "title": "Frenzy glitchpop",
+        "description": "Frenzy glitchpop",
+        "photo": "/assets/imagens/colecao/glitchpop/Frenzy.png",
+        "price": 100.0,
+        "category": {
+            "id": 10,
+            "label": "Frenzy"
+        }
+    },{
+        "id": 18,
+        "title": "Judge glitchpop",
+        "description": "Judge glitchpop",
+        "photo": "/assets/imagens/colecao/glitchpop/Judge.png",
+        "price": 100.0,
+        "category": {
+            "id": 13,
+            "label": "Judge"
+        }
+    },{
+        "id": 19,
+        "title": "Knife glitchpop",
+        "description": "Knife glitchpop",
+        "photo": "/assets/imagens/colecao/glitchpop/Knife.png",
+        "price": 100.0,
+        "category": {
+            "id": 11,
+            "label": "Knife"
+        }
+    },{
+        "id": 20,
+        "title": "Odin glitchpop",
+        "description": "Odin glitchpop",
+        "photo": "/assets/imagens/colecao/glitchpop/Odin.png",
+        "price": 100.0,
+        "category": {
+            "id": 12,
+            "label": "Odin"
+        }
+    },{
+        "id": 21,
+        "title": "Ares infantry",
+        "description": "Ares infantry",
+        "photo": "/assets/imagens/colecao/infantry/Ares.png",
+        "price": 100.0,
+        "category": {
+            "id": 1,
+            "label": "Ares"
+        }
+    },{
+        "id": 22,
+        "title": "Ghost infantry",
+        "description": "Ghost infantry",
+        "photo": "/assets/imagens/colecao/infantry/Ghost.png",
+        "price": 100.0,
+        "category": {
+            "id": 14,
+            "label": "Ghost"
+        }
+    },{
+        "id": 23,
+        "title": "Guardian infantry",
+        "description": "Guardian infantry",
+        "photo": "/assets/imagens/colecao/infantry/Guardian.png",
+        "price": 100.0,
+        "category": {
+            "id": 15,
+            "label": "Guardian"
+        }
+    },{
+        "id": 24,
+        "title": "Operator infantry",
+        "description": "Operator infantry",
+        "photo": "/assets/imagens/colecao/infantry/Operator.png",
+        "price": 100.0,
+        "category": {
+            "id": 16,
+            "label": "Operator"
+        }
+    },{
+        "id": 25,
+        "title": "Spectre infantry",
+        "description": "Spectre infantry",
+        "photo": "/assets/imagens/colecao/infantry/Spectre.png",
+        "price": 100.0,
+        "category": {
+            "id": 9,
+            "label": "Spectre"
+        }
+    },{
+        "id": 26,
+        "title": "Ares sakura",
+        "description": "Ares sakura",
+        "photo": "/assets/imagens/colecao/sakura/Ares.png",
+        "price": 100.0,
+        "category": {
+            "id": 1,
+            "label": "Ares"
+        }
+    },{
+        "id": 27,
+        "title": "Classic sakura",
+        "description": "Classic sakura",
+        "photo": "/assets/imagens/colecao/sakura/Classic.png",
+        "price": 100.0,
+        "category": {
+            "id": 6,
+            "label": "Classic"
+        }
+    },{
+        "id": 28,
+        "title": "Sheriff sakura",
+        "description": "Sheriff sakura",
+        "photo": "/assets/imagens/colecao/sakura/Sheriff.png",
+        "price": 100.0,
+        "category": {
+            "id": 3,
+            "label": "Sheriff"
+        }
+    },{
+        "id": 29,
+        "title": "Stinger sakura",
+        "description": "Stinger sakura",
+        "photo": "/assets/imagens/colecao/sakura/Stinger.png",
+        "price": 100.0,
+        "category": {
+            "id": 4,
+            "label": "Stinger"
+        }
+    },{
+        "id": 30,
+        "title": "Vandal sakura",
+        "description": "Vandal sakura",
+        "photo": "/assets/imagens/colecao/sakura/Vandal.png",
+        "price": 100.0,
+        "category": {
+            "id": 5,
+            "label": "Vandal"
+        }
+    },{
+        "id": 31,
+        "title": "Frenzy sensation",
+        "description": "Frenzy sensation",
+        "photo": "/assets/imagens/colecao/sensation/Frenzy.png",
+        "price": 100.0,
+        "category": {
+            "id": 10,
+            "label": "Frenzy"
+        }
+    },{
+        "id": 32,
+        "title": "Judge sensation",
+        "description": "Judge sensation",
+        "photo": "/assets/imagens/colecao/sensation/Judge.png",
+        "price": 100.0,
+        "category": {
+            "id": 13,
+            "label": "Judge"
+        }
+    },{
+        "id": 33,
+        "title": "Odin sensation",
+        "description": "Odin sensation",
+        "photo": "/assets/imagens/colecao/sensation/Odin.png",
+        "price": 100.0,
+        "category": {
+            "id": 12,
+            "label": "Odin"
+        }
+    },{
+        "id": 34,
+        "title": "Stinger sensation",
+        "description": "Stinger sensation",
+        "photo": "/assets/imagens/colecao/sensation/Stinger.png",
+        "price": 100.0,
+        "category": {
+            "id": 4,
+            "label": "Stinger"
+        }
+    },{
+        "id": 35,
+        "title": "Vandal sensation",
+        "description": "Vandal sensation",
+        "photo": "/assets/imagens/colecao/sensation/Vandal.png",
+        "price": 100.0,
+        "category": {
+            "id": 5,
+            "label": "Vandal"
+        }
+    },{
+        "id": 36,
+        "title": "Ares singularity",
+        "description": "Ares singularity",
+        "photo": "/assets/imagens/colecao/singularity/Ares.png",
+        "price": 100.0,
+        "category": {
+            "id": 1,
+            "label": "Ares"
+        }
+    },{
+        "id": 37,
+        "title": "Knife singularity",
+        "description": "Knife singularity",
+        "photo": "/assets/imagens/colecao/singularity/Knife.png",
+        "price": 100.0,
+        "category": {
+            "id": 11,
+            "label": "Knife"
+        }
+    },{
+        "id": 38,
+        "title": "Phantom singularity",
+        "description": "Phantom singularity",
+        "photo": "/assets/imagens/colecao/singularity/Phantom.png",
+        "price": 100.0,
+        "category": {
+            "id": 8,
+            "label": "Phantom"
+        }
+    },{
+        "id": 39,
+        "title": "Sheriff singularity",
+        "description": "Sheriff singularity",
+        "photo": "/assets/imagens/colecao/singularity/Sheriff.png",
+        "price": 100.0,
+        "category": {
+            "id": 3,
+            "label": "Sheriff"
+        }
+    },{
+        "id": 40,
+        "title": "Spectre singularity",
+        "description": "Spectre singularity",
+        "photo": "/assets/imagens/colecao/singularity/Spectre.png",
+        "price": 100.0,
+        "category": {
+            "id": 9,
+            "label": "Spectre"
+        }
+    },{
+        "id": 41,
+        "title": "Ghost sovereign",
+        "description": "Ghost sovereign",
+        "photo": "/assets/imagens/colecao/sovereign/Ghost.png",
+        "price": 100.0,
+        "category": {
+            "id": 14,
+            "label": "Ghost"
+        }
+    },{
+        "id": 42,
+        "title": "Guardian sovereign",
+        "description": "Guardian sovereign",
+        "photo": "/assets/imagens/colecao/sovereign/Guardian.png",
+        "price": 100.0,
+        "category": {
+            "id": 15,
+            "label": "Guardian"
+        }
+    },{
+        "id": 43,
+        "title": "Knife sovereign",
+        "description": "Knife sovereign",
+        "photo": "/assets/imagens/colecao/sovereign/Knife.png",
+        "price": 100.0,
+        "category": {
+            "id": 11,
+            "label": "Knife"
+        }
+    },{
+        "id": 44,
+        "title": "Marshal sovereign",
+        "description": "Marshal sovereign",
+        "photo": "/assets/imagens/colecao/sovereign/Marshal.png",
+        "price": 100.0,
+        "category": {
+            "id": 7,
+            "label": "Marshal"
+        }
+    },{
+        "id": 45,
+        "title": "Stinger sovereign",
+        "description": "Stinger sovereign",
+        "photo": "/assets/imagens/colecao/sovereign/Stinger.png",
+        "price": 100.0,
+        "category": {
+            "id": 4,
+            "label": "Stinger"
+        }
+    },{
+        "id": 46,
+        "title": "Classic sublime",
+        "description": "Classic sublime",
+        "photo": "/assets/imagens/colecao/sublime/Classic.png",
+        "price": 100.0,
+        "category": {
+            "id": 6,
+            "label": "Classic"
+        }
+    },{
+        "id": 47,
+        "title": "Guardian sublime",
+        "description": "Guardian sublime",
+        "photo": "/assets/imagens/colecao/sublime/Guardian.png",
+        "price": 100.0,
+        "category": {
+            "id": 15,
+            "label": "Guardian"
+        }
+    },{
+        "id": 48,
+        "title": "Knife sublime",
+        "description": "Knife sublime",
+        "photo": "/assets/imagens/colecao/sublime/Knife.png",
+        "price": 100.0,
+        "category": {
+            "id": 11,
+            "label": "Knife"
+        }
+    },{
+        "id": 49,
+        "title": "Spectre sublime",
+        "description": "Spectre sublime",
+        "photo": "/assets/imagens/colecao/sublime/Spectre.png",
+        "price": 100.0,
+        "category": {
+            "id": 9,
+            "label": "Spectre"
+        }
+    },{
+        "id": 50,
+        "title": "Vandal sublime",
+        "description": "Vandal sublime",
+        "photo": "/assets/imagens/colecao/sublime/Vandal.png",
+        "price": 100.0,
+        "category": {
+            "id": 5,
+            "label": "Vandal"
+        }
+    }
+]

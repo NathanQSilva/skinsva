@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "label": "Ares"
+    },{
+        "id": 2,
+        "label": "Bulldog"
+    },{
+        "id": 3,
+        "label": "Sheriff"
+    },{
+        "id": 4,
+        "label": "Stinger"
+    },{
+        "id": 5,
+        "label": "Vandal"
+    },{
+        "id": 6,
+        "label": "Classic"
+    },{
+        "id": 7,
+        "label": "Marshal"
+    },{
+        "id": 8,
+        "label": "Phanton"
+    },{
+        "id": 9,
+        "label": "Spectre"
+    },{
+        "id": 10,
+        "label": "Frenzy"
+    },{
+        "id": 11,
+        "label": "Knife"
+    },{
+        "id": 12,
+        "label": "Odin"
+    },{
+        "id": 13,
+        "label": "Judge"
+    },{
+        "id": 14,
+        "label": "Ghost"
+    },{
+        "id": 15,
+        "label": "Guardian"
+    },{
+        "id": 16,
+        "label": "Operator"
+    }
+]
