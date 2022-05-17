@@ -26,6 +26,13 @@ body {
     background: linear-gradient(11.58deg, rgba(171, 58, 173, 0.42) 8.5%, rgba(22, 33, 48, 0) 67.72%), #162130;
 }
 
+@layer components {
+    .bg-card-vava {
+        url(background.jpg);
+        border-radius: 25px;
+    }
+}
+
 /* Exemplo CUSTOM
 @layer components {
     .bg-image-vava {
