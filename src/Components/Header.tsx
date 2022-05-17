@@ -90,7 +90,7 @@ export function Header() {
                 </div>
                 <div className="bg-vavaCinza-100 font-normal flex items-center justify-center flex-col p-2">
                     <p className="text-slate-100 text-xs">
-                        SKINSVA é uma marca fictícia de ALUNOS UTFPR | RAs: a2164485 e axxxxxxx | Todos os direitos reservados. Os preços anunciados neste site são meramente imaginários.
+                        SKINSVA é uma marca fictícia de ALUNOS UTFPR | RAs: a2326809 e a2164485 | Todos os direitos reservados. Os preços anunciados neste site são meramente imaginários.
                     </p>
                     <p className="text-slate-100 text-xs">
                         O skinsva! não é responsável por mal uso deste projeto. As fotos contidas nesta página são meramente ilustrativas do produto retiradas de valorant.fandom.com Este site não trabalha com criptografia SSL.

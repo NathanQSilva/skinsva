@@ -12,11 +12,8 @@ export default function HomePage() {
           <CarouselComponent />
         </div>
       </section>
-    
-        <Prateleira />
       
-        
-        
+      <Prateleira />
     </>
   );
 
