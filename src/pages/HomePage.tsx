@@ -17,6 +17,7 @@ export default function HomePage() {
       
       <Prateleira busca="nova" title="Novidades" />
       <Prateleira busca="destaque" title="destaques" />
+      <Prateleira busca="destaque" title="destaques" />
     </>
   );
 

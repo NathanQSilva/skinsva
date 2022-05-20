@@ -14,16 +14,20 @@ export default function Prateleira(Props: PrateleiraProps) {
                 <p className=" font-valorant text-3xl text-slate-100 mr-4">{Props.title}</p>
                 <p className=" font-valorant text-xl text-slate-100 border-l-2 border-vavaRed-100 pl-4">Ver +</p>
             </div>
-            <div className="flex items-center justify-around w-full ">
+            <div className="flex items-center justify-around w-full">
                 {produtos.map((produto) => (
                     produto.tags.includes(Props.busca) ?
-                        <CardProduto
-                            chave={produto.id}
-                            imagem={produto.photo}
-                            nome={produto.title}
-                            altText={produto.description}
-                            preco={produto.price}
-                        />
+                        <>
+                        <div key={produto.id}>
+                            <CardProduto
+                                chave={produto.id}
+                                imagem={produto.photo}
+                                nome={produto.title}
+                                altText={produto.description}
+                                preco={produto.price}
+                            />
+                        </div>
+                        </>
                         :
                         <></>
                 ))}
