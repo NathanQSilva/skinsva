@@ -7,6 +7,11 @@
     src: url("/public/fonts/ValorantFont.ttf")
 }
 
+@font-face {
+    font-family: "ROBOTO";
+    src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap)
+}
+
 /* CUSTOM SCROLLBAR */
 body::-webkit-scrollbar {
     width: 6px;
@@ -28,8 +33,8 @@ body {
 
 @layer components {
     .bg-card-vava {
-        url(background.jpg);
-        border-radius: 25px;
+        background: linear-gradient(0deg, rgba(22, 33, 48, 0.9) 0%, rgba(2, 2, 2, 0) 100%), url(https://raw.githubusercontent.com/NathanQSilva/skinsva/master/public/assets/imagens/bg-card.jpg);
+        background-size: cover;
     }
 }
 

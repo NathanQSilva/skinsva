@@ -46,7 +46,7 @@ export function Header() {
             
             <footer>
                 <div className=''>
-                    <section className='bg-vavaCinza-100 flex flex-row justify-around text-slate-100 py-6 font-light'>
+                    <section className='bg-vavaCinza-100 flex flex-row justify-around text-slate-100 font-light'>
                         <div className='w-3/12 flex items-center flex-col'>
                             <p className='pb-2'>DEPARTAMENTOS</p>
                             <a href="" className='text-sm font-light'>SKINS</a>

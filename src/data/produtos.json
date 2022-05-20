@@ -513,7 +513,8 @@
         "photo": "/assets/imagens/colecao/singularity/Knife.png",
         "price": "100.0",
         "tags": [
-            "skins"
+            "skins",
+            "nova"
         ],
         "category": {
             "id": 11,
@@ -542,7 +543,9 @@
         "photo": "/assets/imagens/colecao/singularity/Sheriff.png",
         "price": "100.0",
         "tags": [
-            "skins"
+            "skins",
+            "destaque"
+
         ],
         "category": {
             "id": 3,
