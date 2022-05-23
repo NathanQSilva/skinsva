@@ -21,7 +21,8 @@ export function Header() {
             <header className="flex flex-row justify-between items-center bg-vavaCinza-100">
                 <div className="h-16 flex flex-row items-center pl-12">
                     <h1 className="font-valorant text-slate-100 text-4xl pr-8">
-                        SkinsVa
+                        <Link to="/">SkinsVa</Link>
+                        
                     </h1>
                     <h1 className="font-valorant text-slate-100 text-1xl pl-8 border-l-2 border-vavaRed-100">
                         Sua loja de skins
