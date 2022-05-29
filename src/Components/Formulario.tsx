@@ -1,55 +1,46 @@
 import { useState } from "react"
+import { useForm } from 'react-hook-form'
 
 export default function Formulario() {
 
-    const [ contactInfo, setContactInfo ] = useState({
-        name: "",
-        email: "",
-        phoneNumber: "",
-    })
+    const {
+        register,
+        handleSubmit,
+        formState: {errors}
+    } = useForm()
 
-    const handleChange = (event: any) => {
-        setContactInfo({...contactInfo, [event.target.name]: event.target.value })
-    }
-
-    const handleSubmit = (event: any) => {
-        event.preventDefault()
-        console.log(contactInfo)
-        setContactInfo({ name: "", email: "", phoneNumber: "" });
-    }
+    const onSubmit = (data: any) => console.log(data)
 
     return (
         <div className="border w-9/12">
-            <form onSubmit={handleSubmit}>
+            <form onSubmit={handleSubmit(onSubmit)}>
                 <div>
                     <h3>Contact Form</h3>
                 </div>
                 <div>
                     <input
                         type="text"
-                        name="name"
-                        placeholder="Name"
-                        value={contactInfo.name}
-                        onChange={handleChange}
+                        {...register('name')}
                     />
                 </div>
                 <div>
                     <input
-                        type="email"
-                        name="email"
-                        placeholder="Email"
-                        value={contactInfo.email}
-                        onChange={handleChange}
+                        type="text"
+                        {...register('sobrenome', {
+                            required: true
+                        })}
                     />
+                    {errors.sobrenome && <p>Last name is required.</p>}
                 </div>
                 <div>
                     <input
-                        type="number"
-                        name="phonenumber"
-                        placeholder="Phone Number"
-                        value={contactInfo.phoneNumber}
-                        onChange={handleChange}
+                        type="text"
+                        {...register('idade', {
+                            required: true,
+                            pattern: /\d+/
+                        })}
                     />
+                    {errors.idade && <p>Age is required.</p>}
                 </div>
                 <div>
                     <button>Submit Contact</button>

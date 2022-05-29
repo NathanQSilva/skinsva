@@ -1,4 +1,5 @@
 import { FacebookLogo, InstagramLogo, YoutubeLogo } from 'phosphor-react'
+import { useState } from 'react'
 import { Link, Outlet } from 'react-router-dom'
 
 export function Header() {
@@ -11,10 +12,9 @@ export function Header() {
     }, {
         label: 'Contato',
         to: '/contato'
-    }, {
-        label: 'Login',
-        to: '/login'
     }]
+
+    const [isLogged, setIsLogged] = useState(false)
 
     return (
         <>
@@ -37,6 +37,18 @@ export function Header() {
                                 </Link>
                             </li>
                         ))}
+                        <li>
+                            {isLogged ? (
+                                <Link className="text-2xl text-slate-100 font-valorant mx-6 pb-1 transition-all duration-100 hover:border-b-2 border-vavaRed-100" to="/perfil">
+                                    Perfil
+                                </Link>
+                            ) : (
+                                <Link className="text-2xl text-slate-100 font-valorant mx-6 pb-1 transition-all duration-100 hover:border-b-2 border-vavaRed-100" to="/login">
+                                    Login
+                                </Link>
+                            )}
+                            
+                        </li>
                     </ul>
                 </div>
             </header>
@@ -50,31 +62,31 @@ export function Header() {
                     <section className='bg-vavaCinza-100 flex flex-row justify-around text-slate-100 font-light'>
                         <div className='w-3/12 flex items-center flex-col'>
                             <p className='pb-2'>DEPARTAMENTOS</p>
-                            <a href="" className='text-sm font-light'>SKINS</a>
-                            <a href="" className='text-sm font-light'>PROMOÇÕES</a>
-                            <a href="" className='text-sm font-light'>NOVIDADES</a>
-                            <a href="" className='text-sm font-light'>MAIS VENDIDAS</a>
-                            <a href="" className='text-sm font-light'>VEM POR AI</a>
+                            <a href="#" className='text-sm font-light'>SKINS</a>
+                            <a href="#" className='text-sm font-light'>PROMOÇÕES</a>
+                            <a href="#" className='text-sm font-light'>NOVIDADES</a>
+                            <a href="#" className='text-sm font-light'>MAIS VENDIDAS</a>
+                            <a href="#" className='text-sm font-light'>VEM POR AI</a>
                         </div>
                         <div className='w-3/12 flex items-center flex-col'>
                             <p className='pb-2'>INSTITUCIONAIS</p>
-                            <a href="" className='text-sm font-light'>SOBRE NÓS</a>
-                            <a href="" className='text-sm font-light'>POLITICAS</a>
-                            <a href="" className='text-sm font-light'>TRABALHE CONOSCO</a>
-                            <a href="" className='text-sm font-light'>MAPA DO SITE</a>
+                            <a href="#" className='text-sm font-light'>SOBRE NÓS</a>
+                            <a href="#" className='text-sm font-light'>POLITICAS</a>
+                            <a href="#" className='text-sm font-light'>TRABALHE CONOSCO</a>
+                            <a href="#" className='text-sm font-light'>MAPA DO SITE</a>
                         </div>
                         <div className='w-3/12 flex items-center flex-col'>
                             <p className='pb-2'>CONTATO</p>
-                            <a href="" className='text-sm font-light'>CENTRAL/SAC - (XX) XXXX-XXXX</a>
-                            <a href="" className='text-sm font-light'>EMAIL - CONTATO@SKINSVA.COM.BR</a>
-                            <a href="" className='text-sm font-light'>ATENDIMENTO DAS 08:00 ÀS 20:00</a>
-                            <a href="" className='text-sm font-light'>SEGUNDA A SÁBADO</a>
-                            <a href="" className='text-sm font-light'>(EXCETO DOMINGO E FERIADOS)</a>
+                            <a href="#" className='text-sm font-light'>CENTRAL/SAC - (XX) XXXX-XXXX</a>
+                            <a href="#" className='text-sm font-light'>EMAIL - CONTATO@SKINSVA.COM.BR</a>
+                            <a href="#" className='text-sm font-light'>ATENDIMENTO DAS 08:00 ÀS 20:00</a>
+                            <a href="#" className='text-sm font-light'>SEGUNDA A SÁBADO</a>
+                            <a href="#" className='text-sm font-light'>(EXCETO DOMINGO E FERIADOS)</a>
                         </div>
                         <div className='w-3/12 flex items-center flex-col'>
                             <p className='pb-2'>MINHA CONTA</p>
-                            <a href="" className='text-sm font-light'>MEUS PEDIDOS</a>
-                            <a href="" className='text-sm font-light'>FAVORITOS</a>
+                            <a href="#" className='text-sm font-light'>MEUS PEDIDOS</a>
+                            <a href="#" className='text-sm font-light'>FAVORITOS</a>
                         </div>
                     </section>
                 </div>
