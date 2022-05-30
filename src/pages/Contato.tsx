@@ -1,5 +1,5 @@
 import Divisor from "Components/Divisor";
-import Formulario from "Components/Formulario";
+import Formulario from "Components/FormularioContato";
 import { Envelope, FacebookLogo, InstagramLogo, Megaphone, YoutubeLogo } from "phosphor-react";
 
 export function ContatoPage() {

@@ -38,6 +38,36 @@ body {
     }
 }
 
+@layer buttonForm{
+    .buttonForm {
+        border-color: #FF4763;
+        color: #fff;
+        box-shadow: 0 0 40px 40px #FF4763 inset, 0 0 0 0 #FF4763;
+        -webkit-transition: all 150ms ease-in-out;
+        transition: all 150ms ease-in-out;
+
+        width: 70%;
+        height: 40px;
+    }
+    .buttonForm:hover {
+        box-shadow: 0 0 10px 0 #FF4763 inset, 0 0 10px 4px #FF4763;
+    }
+}
+
+@layer buttonFormGreen{
+    .buttonFormGreen {
+        border-color: #059C46;
+        color: #fff;
+        box-shadow: 0 0 40px 40px #059C46 inset, 0 0 0 0 #059C46;
+        -webkit-transition: all 150ms ease-in-out;
+        transition: all 150ms ease-in-out;
+
+        width: 70%;
+        height: 40px;
+    }
+}
+
+
 /* Exemplo CUSTOM
 @layer components {
     .bg-image-vava {

@@ -16,8 +16,8 @@ export default function Prateleira(Props: PrateleiraProps) {
             </div>
             <div className="flex items-center justify-around w-full">
                 {produtos.map((produto) => (
-                    produto.tags.includes(Props.busca) ?
-                        <>
+                    produto.tags.includes(Props.busca) &&
+                    <>
                         <div key={produto.id}>
                             <CardProduto
                                 chave={produto.id}
@@ -27,9 +27,7 @@ export default function Prateleira(Props: PrateleiraProps) {
                                 preco={produto.price}
                             />
                         </div>
-                        </>
-                        :
-                        <></>
+                    </>
                 ))}
             </div>
             <Divisor />

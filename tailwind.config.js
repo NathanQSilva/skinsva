@@ -14,6 +14,9 @@ module.exports = {
         },
         vavaRed: {
           100: "#FF4763"
+        },
+        vavaVerde: {
+          100: "#059C46"
         }
       }
     },
