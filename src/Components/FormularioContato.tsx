@@ -2,7 +2,6 @@ import { useState } from "react"
 import { useForm } from 'react-hook-form'
 
 export default function Formulario() {
-
     const [ enviado, setEnviado ] = useState(false)
 
     const {
@@ -38,11 +37,11 @@ export default function Formulario() {
                             <label className="text-lg">E-mail:</label>
                             <input
                                 className="text-slate-200 h-9 outline-none rounded-lg bg-slate-800 p-2 w-full"
-                                type="email"
+                                type="text"
                                 placeholder="E-mail"
                                 {...register('email', {
                                     required: true,
-                                    pattern: /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
+                                    pattern: /^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/
                                 })}
                             />
                             {errors.email && <p>Informe um email válido para continuar</p>}

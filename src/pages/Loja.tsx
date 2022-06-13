@@ -1,7 +1,9 @@
+import Filtro from "Components/Filtro";
+
 export function LojaPage() {
     return (
-        <div> 
-            Loja page
+        <div className="flex flex-col w-full border"> 
+            <Filtro />
         </div>
     )
 }
