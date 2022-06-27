@@ -38,6 +38,24 @@ body {
     }
 }
 
+@layer components {
+    .bg-vava-transparente {
+        background: rgba(22, 33, 48, 0.8);
+    }
+}
+
+@layer components {
+    .h-10percent {
+        height: 10%
+    }
+}
+
+@layer components {
+    .h-90percent {
+        height: 90%
+    }
+}
+
 @layer buttonForm{
     .buttonForm {
         border-color: #FF4763;

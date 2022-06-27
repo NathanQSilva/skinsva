@@ -5,8 +5,3 @@ export const ListOfProducts = atom({
     key: 'ListOfProducts',
     default: listaProdutos
 })
-
-export const ListOrderBy = atom({
-    key: 'ListOrderBy',
-    default: 'null'
-})

@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Ares aristocrat",
+        "title": "Aristocrat Ares",
         "description": "Ares aristocrat",
         "photo": "/assets/imagens/colecao/aristocrat/Ares.png",
-        "price": "100.0",
+        "price": 90,
         "tags": [
             "skins"
         ],
@@ -15,10 +15,10 @@
     },
     {
         "id": 2,
-        "title": "Bulldog aristocrat",
+        "title": "Aristocrat bulldog",
         "description": "Bulldog aristocrat",
         "photo": "/assets/imagens/colecao/aristocrat/Bulldog.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -32,7 +32,7 @@
         "title": "Sheriff aristocrat",
         "description": "Sheriff aristocrat",
         "photo": "/assets/imagens/colecao/aristocrat/Sheriff.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -46,7 +46,7 @@
         "title": "Stinger aristocrat",
         "description": "Stinger aristocrat",
         "photo": "/assets/imagens/colecao/aristocrat/Stinger.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -60,7 +60,7 @@
         "title": "Vandal aristocrat",
         "description": "Vandal aristocrat",
         "photo": "/assets/imagens/colecao/aristocrat/Vandal.png",
-        "price": "100.0",
+        "price": 180,
         "tags": [
             "skins"
         ],
@@ -74,7 +74,7 @@
         "title": "Classic avalanche",
         "description": "Classic avalanche",
         "photo": "/assets/imagens/colecao/avalanche/Classic.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -88,7 +88,7 @@
         "title": "Marshal avalanche",
         "description": "Marshal avalanche",
         "photo": "/assets/imagens/colecao/avalanche/Marshal.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -102,7 +102,7 @@
         "title": "Phantom avalanche",
         "description": "Phantom avalanche",
         "photo": "/assets/imagens/colecao/avalanche/Phantom.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -116,7 +116,7 @@
         "title": "Spectre avalanche",
         "description": "Spectre avalanche",
         "photo": "/assets/imagens/colecao/avalanche/Spectre.png",
-        "price": "100.0",
+        "price": 135,
         "tags": [
             "skins"
         ],
@@ -130,7 +130,7 @@
         "title": "Vandal avalanche",
         "description": "Vandal avalanche",
         "photo": "/assets/imagens/colecao/avalanche/Vandal.png",
-        "price": "100.0",
+        "price": 180,
         "tags": [
             "skins",
             "destaque"
@@ -145,7 +145,7 @@
         "title": "Frenzy blastx",
         "description": "Frenzy blastx",
         "photo": "/assets/imagens/colecao/blastx/Frenzy.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -159,7 +159,7 @@
         "title": "Knife blastx",
         "description": "Knife blastx",
         "photo": "/assets/imagens/colecao/blastx/Knife.png",
-        "price": "100.0",
+        "price": 200,
         "tags": [
             "skins"
         ],
@@ -173,7 +173,7 @@
         "title": "Odin blastx",
         "description": "Odin blastx",
         "photo": "/assets/imagens/colecao/blastx/Odin.png",
-        "price": "100.0",
+        "price": 125,
         "tags": [
             "skins"
         ],
@@ -187,7 +187,7 @@
         "title": "Phanton blastx",
         "description": "Phanton blastx",
         "photo": "/assets/imagens/colecao/blastx/Phanton.png",
-        "price": "100.0",
+        "price": 175,
         "tags": [
             "skins"
         ],
@@ -201,7 +201,7 @@
         "title": "Spectre blastx",
         "description": "Spectre blastx",
         "photo": "/assets/imagens/colecao/blastx/Spectre.png",
-        "price": "100.0",
+        "price": 135,
         "tags": [
             "skins"
         ],
@@ -215,7 +215,7 @@
         "title": "Bulldog glitchpop",
         "description": "Bulldog glitchpop",
         "photo": "/assets/imagens/colecao/glitchpop/Bulldog.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -229,7 +229,7 @@
         "title": "Frenzy glitchpop",
         "description": "Frenzy glitchpop",
         "photo": "/assets/imagens/colecao/glitchpop/Frenzy.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins",
             "destaque"
@@ -244,7 +244,7 @@
         "title": "Judge glitchpop",
         "description": "Judge glitchpop",
         "photo": "/assets/imagens/colecao/glitchpop/Judge.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -258,7 +258,7 @@
         "title": "Knife glitchpop",
         "description": "Knife glitchpop",
         "photo": "/assets/imagens/colecao/glitchpop/Knife.png",
-        "price": "100.0",
+        "price": 200,
         "tags": [
             "skins"
         ],
@@ -272,7 +272,7 @@
         "title": "Odin glitchpop",
         "description": "Odin glitchpop",
         "photo": "/assets/imagens/colecao/glitchpop/Odin.png",
-        "price": "100.0",
+        "price": 125,
         "tags": [
             "skins"
         ],
@@ -286,7 +286,7 @@
         "title": "Ares infantry",
         "description": "Ares infantry",
         "photo": "/assets/imagens/colecao/infantry/Ares.png",
-        "price": "100.0",
+        "price": 90,
         "tags": [
             "skins"
         ],
@@ -300,7 +300,7 @@
         "title": "Ghost infantry",
         "description": "Ghost infantry",
         "photo": "/assets/imagens/colecao/infantry/Ghost.png",
-        "price": "100.0",
+        "price": 150,
         "tags": [
             "skins"
         ],
@@ -314,7 +314,7 @@
         "title": "Guardian infantry",
         "description": "Guardian infantry",
         "photo": "/assets/imagens/colecao/infantry/Guardian.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins",
             "destaque"
@@ -329,7 +329,7 @@
         "title": "Operator infantry",
         "description": "Operator infantry",
         "photo": "/assets/imagens/colecao/infantry/Operator.png",
-        "price": "100.0",
+        "price": 135,
         "tags": [
             "skins"
         ],
@@ -343,7 +343,7 @@
         "title": "Spectre infantry",
         "description": "Spectre infantry",
         "photo": "/assets/imagens/colecao/infantry/Spectre.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -357,7 +357,7 @@
         "title": "Ares sakura",
         "description": "Ares sakura",
         "photo": "/assets/imagens/colecao/sakura/Ares.png",
-        "price": "100.0",
+        "price": 90,
         "tags": [
             "skins"
         ],
@@ -371,7 +371,7 @@
         "title": "Classic sakura",
         "description": "Classic sakura",
         "photo": "/assets/imagens/colecao/sakura/Classic.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -385,7 +385,7 @@
         "title": "Sheriff sakura",
         "description": "Sheriff sakura",
         "photo": "/assets/imagens/colecao/sakura/Sheriff.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -399,7 +399,7 @@
         "title": "Stinger sakura",
         "description": "Stinger sakura",
         "photo": "/assets/imagens/colecao/sakura/Stinger.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -413,7 +413,7 @@
         "title": "Vandal sakura",
         "description": "Vandal sakura",
         "photo": "/assets/imagens/colecao/sakura/Vandal.png",
-        "price": "100.0",
+        "price": 180,
         "tags": [
             "skins"
         ],
@@ -427,7 +427,7 @@
         "title": "Frenzy sensation",
         "description": "Frenzy sensation",
         "photo": "/assets/imagens/colecao/sensation/Frenzy.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -441,7 +441,7 @@
         "title": "Judge sensation",
         "description": "Judge sensation",
         "photo": "/assets/imagens/colecao/sensation/Judge.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -455,7 +455,7 @@
         "title": "Odin sensation",
         "description": "Odin sensation",
         "photo": "/assets/imagens/colecao/sensation/Odin.png",
-        "price": "100.0",
+        "price": 125,
         "tags": [
             "skins"
         ],
@@ -469,7 +469,7 @@
         "title": "Stinger sensation",
         "description": "Stinger sensation",
         "photo": "/assets/imagens/colecao/sensation/Stinger.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -483,7 +483,7 @@
         "title": "Vandal sensation",
         "description": "Vandal sensation",
         "photo": "/assets/imagens/colecao/sensation/Vandal.png",
-        "price": "100.0",
+        "price": 180,
         "tags": [
             "skins"
         ],
@@ -497,7 +497,7 @@
         "title": "Ares singularity",
         "description": "Ares singularity",
         "photo": "/assets/imagens/colecao/singularity/Ares.png",
-        "price": "100.0",
+        "price": 90,
         "tags": [
             "skins"
         ],
@@ -511,7 +511,7 @@
         "title": "Knife singularity",
         "description": "Knife singularity",
         "photo": "/assets/imagens/colecao/singularity/Knife.png",
-        "price": "100.0",
+        "price": 200,
         "tags": [
             "skins",
             "nova"
@@ -526,7 +526,7 @@
         "title": "Phantom singularity",
         "description": "Phantom singularity",
         "photo": "/assets/imagens/colecao/singularity/Phantom.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins",
             "nova"
@@ -541,7 +541,7 @@
         "title": "Sheriff singularity",
         "description": "Sheriff singularity",
         "photo": "/assets/imagens/colecao/singularity/Sheriff.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins",
             "destaque"
@@ -557,7 +557,7 @@
         "title": "Spectre singularity",
         "description": "Spectre singularity",
         "photo": "/assets/imagens/colecao/singularity/Spectre.png",
-        "price": "100.0",
+        "price": 135,
         "tags": [
             "skins"
         ],
@@ -571,7 +571,7 @@
         "title": "Ghost sovereign",
         "description": "Ghost sovereign",
         "photo": "/assets/imagens/colecao/sovereign/Ghost.png",
-        "price": "100.0",
+        "price": 150,
         "tags": [
             "skins"
         ],
@@ -585,7 +585,7 @@
         "title": "Guardian sovereign",
         "description": "Guardian sovereign",
         "photo": "/assets/imagens/colecao/sovereign/Guardian.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -599,7 +599,7 @@
         "title": "Knife sovereign",
         "description": "Knife sovereign",
         "photo": "/assets/imagens/colecao/sovereign/Knife.png",
-        "price": "100.0",
+        "price": 200,
         "tags": [
             "skins"
         ],
@@ -613,7 +613,7 @@
         "title": "Marshal sovereign",
         "description": "Marshal sovereign",
         "photo": "/assets/imagens/colecao/sovereign/Marshal.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -627,7 +627,7 @@
         "title": "Stinger sovereign",
         "description": "Stinger sovereign",
         "photo": "/assets/imagens/colecao/sovereign/Stinger.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins",
             "nova"
@@ -642,7 +642,7 @@
         "title": "Classic sublime",
         "description": "Classic sublime",
         "photo": "/assets/imagens/colecao/sublime/Classic.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -656,7 +656,7 @@
         "title": "Guardian sublime",
         "description": "Guardian sublime",
         "photo": "/assets/imagens/colecao/sublime/Guardian.png",
-        "price": "100.0",
+        "price": 100,
         "tags": [
             "skins"
         ],
@@ -670,7 +670,7 @@
         "title": "Knife sublime",
         "description": "Knife sublime",
         "photo": "/assets/imagens/colecao/sublime/Knife.png",
-        "price": "100.0",
+        "price": 200,
         "tags": [
             "skins"
         ],
@@ -684,7 +684,7 @@
         "title": "Spectre sublime",
         "description": "Spectre sublime",
         "photo": "/assets/imagens/colecao/sublime/Spectre.png",
-        "price": "100.0",
+        "price": 135,
         "tags": [
             "skins"
         ],
@@ -698,7 +698,7 @@
         "title": "Vandal sublime",
         "description": "Vandal sublime",
         "photo": "/assets/imagens/colecao/sublime/Vandal.png",
-        "price": "100.0",
+        "price": 180,
         "tags": [
             "skins",
             "nova"
